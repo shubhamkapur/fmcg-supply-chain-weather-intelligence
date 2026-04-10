@@ -42,9 +42,13 @@ ________________________________________
 ________________________________________
 3. Derived Metrics & Methodology
 Core Metrics
+
 •	RainyDays: A binary flag where Rainfall>0. It counts the frequency of rain events regardless of volume.
+
 •	HeavyRainDays: A binary flag where Rainfall>20mm. This represents "Extreme Weather" likely to cause flash flooding or total transport shutdown.
+
 •	Temp_Range: (MaxTemp−MinTemp). Higher ranges indicate high daily thermal stress on product packaging.
+
 •	RainDays_Percentage: (Sum of RainyDays/Total Days). Represents the probability of a rain event occurring.
 ________________________________________
 4. Advanced Statistical Measures
