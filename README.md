@@ -37,13 +37,8 @@ ________________________________________
 
 2. Table Structure & Data Schema
 
-Field Name--|--Type--|--Description.
-Location--|--String--|--The geographical hub/city in Australia.
-Date/Month--|--Time/Int--|--Temporal markers for seasonality analysis.
-MaxTemp/MinTemp--|--Float--|--Daily temperature extremes.
-Rainfall--|--loat--|--Daily precipitation volume (mm).
-Evaporation--|--Float--|--Daily water loss from surfaces (mm).
-Sunshine--|--Float--|--Daily hours of bright sunlight.
+<img width="600" height="185" alt="image" src="https://github.com/user-attachments/assets/902b9d8d-b42a-49c7-b43e-1fe303b3b0dd" />
+
 ________________________________________
 3. Derived Metrics & Methodology
 Core Metrics
