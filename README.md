@@ -60,3 +60,6 @@ ________________________________________
 1.	Select a Location via the slicer to see the specific risk profile for that distribution hub.
 2.	Monitor the Demand Trigger chart during transition months (Spring/Autumn) to time the release of seasonal product lines.
 3.	Audit the Logistics Heatmap monthly to adjust shipping lead times based on rainfall probability.
+
+![Weather_data_dashboard_PowerBI](https://github.com/user-attachments/assets/c1461a2c-4f30-4454-8081-8a4d03f91fdc)
+
