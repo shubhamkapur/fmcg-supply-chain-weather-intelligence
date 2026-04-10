@@ -34,9 +34,10 @@ F. Interactive Location Filtering
 •	Feature: Global Slicer for Location.
 •	Utility: Allows regional managers to drill down into specific distribution hub profiles (e.g., Sydney vs. Darwin) to tailor local storage protocols.
 ________________________________________
+
 2. Table Structure & Data Schema
+
 Field Name--|--Type--|--Description
------------------------------------------
 Location--|--String--|--The geographical hub/city in Australia.
 Date/Month--|--Time/Int--|--Temporal markers for seasonality analysis.
 MaxTemp/MinTemp--|--Float--|--Daily temperature extremes.
