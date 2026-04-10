@@ -1,4 +1,4 @@
-# FMCG Supply Chain-Weather Intelligence
+# FMCG Supply Chain Weather Intelligence
 
 Project Overview
 This project transforms raw historical weather data into a Strategic Decision Support System for FMCG operations in Australia. By analysing climate patterns, the dashboard provides actionable insights into logistics risk, storage integrity, and consumer demand triggers.
